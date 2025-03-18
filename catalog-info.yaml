@@ -17,5 +17,5 @@ metadata:
 spec:
   type: service
   lifecycle: production
-  owner: my-team
+  owner: xteam
   system: public-websites

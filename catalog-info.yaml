@@ -15,7 +15,7 @@ metadata:
       icon: dashboard
       type: admin-dashboard
 spec:
-  type: website
+  type: service
   lifecycle: production
   owner: my-team
   system: public-websites

@@ -7,6 +7,7 @@ metadata:
     example.com/custom: custom_label_value
   annotations:
     example.com/service-discovery: artistweb
+    backstage.io/techdocs-ref: dir:.
   tags:
     - java
   links:
